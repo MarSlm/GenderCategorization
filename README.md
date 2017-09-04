@@ -1,4 +1,4 @@
-#Gender Categorization 
+Gender Categorization 
 
 Gender Categorization is a real-world dataset containing images of men and women. This repository contains the source code needed to built machine learning algorithms that can "recognize" the gender of people in the images.
 
@@ -19,8 +19,8 @@ More specifically the last file includes the following:
 This project was conducted as part of the "Social Media Analytics" class of the M.Sc. in Business Analytics, Athens University of Economics & Business.
 
 The project implemented by the following members :
-Alexandra Gkiali: BAPT 1611
-Athanasios Gkinakos: BAPT 1616
-Paraskevi Koutsioumpa: BAPT 1618
-Konstantina Malliari: BAPT 1625
-Maria Salemi: BAPT 1610
+Alexandra Gkiali
+Athanasios Gkinakos
+Paraskevi Koutsioumpa
+Konstantina Malliari
+Maria Salemi
